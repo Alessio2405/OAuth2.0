@@ -24,8 +24,8 @@ dotnet build
 ## Quick Start
 
 ```csharp
-using OAuth2._0;
-using OAuth2._0.Models;
+using OAuth2.0;
+using OAuth2.0.Models;
 
 // Configure OAuth2 client
 var config = new OAuth2Config
